@@ -23,4 +23,4 @@ Estudante e amante em tecnlogia, atualmente estudando analise e desenvolvimento 
 ---
 
 ## Certificações
-![AWS Certified](https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2Fpt%2Fcertification%2Fcertified-cloud-practitioner%2F&psig=AOvVaw2HrfwXMQoUIqnW-sH9kbb_&ust=1720575941180000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjeicXomIcDFQAAAAAdAAAAABAE)
+![AWS Certified](AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png)
