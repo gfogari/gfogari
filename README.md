@@ -1,16 +1,26 @@
-## Hi there 👋
+# Gean Clodoaldo Fogari
+**gfogari • he/his**
 
-<!--
-**gfogari/gfogari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Localização:** Brasil - São Paulo / SP  
+**Horário Atual:** 22:31 - same time  
+**LinkedIn:** [gfogari](https://www.linkedin.com/in/gean-fogari-182649161/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre Mim
+Estudante e amante em tecnlogia, atualmente estudando analise e desenvolvimento de sistemas e de Cloud Computing, uma vez certificado pela AWS Cloud Practitioner e buscando tirar o certificado AWS Solutions Architect
+
+---
+
+## Minhas Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/gean-fogari-182649161/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink)](https://www.instagram.com/gfogari)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/gfogari)
+
+
+---
+
+## Certificações
+![AWS Certified](link-da-imagem)
